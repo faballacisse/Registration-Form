@@ -178,3 +178,7 @@ button:active {
 #pswd_info {
 	display: none;
 }
+
+footer {
+	text-align: center;
+}
